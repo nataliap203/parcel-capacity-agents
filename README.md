@@ -1,0 +1,1 @@
+# System wieloagentowy - Analiza chłonności działki
